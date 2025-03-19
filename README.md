@@ -1,4 +1,4 @@
-# Class 2: Getting started with code
+# Class 2: Gitting started with code
 A toy repo for learning how to clone, commit, and make pull requests
 
 ## Assignment
