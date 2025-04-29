@@ -15,7 +15,7 @@ jobs:
 
       - name: Generate index.html
         run: |
-          echo "<!DOCTYPE html><html><head><meta charset="UTF-8"><title>The Journal of Digital Humanities and Data Sustainability</title></head><body>" > index.html
+          echo "<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Gitting Started</title></head><body>" > index.html
           echo "<h1>Class 2, April 22: Gitting Started with Code</h1><h2>Project Ideas</h2><ul>" >> index.html
           for file in *.html; do
             echo "<li><a href=\"$file\">$file</a></li>" >> index.html
