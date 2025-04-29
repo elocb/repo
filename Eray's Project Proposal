@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Eray's Project Proposal</title>
+</head>
+<body>
+    <h1></h1>
+    <p>This project addresses a growing need in Ottoman studies: an integrated, digital approach to understanding the spatial and social dynamics of Istanbul during the empire’s tanzimat era. By combining historical maps, archival texts, and demographic data, the project explores how urban space transformed in relation to political shifts, modernization efforts, and changing social structures from late mid 1800s to 1920. Through the use of digital mapping, text mining, and visualization tools, the project will trace the development of infrastructure, neighborhoods, and public institutions across time.</p>
+<p>Drawing on extensive archival sources—including Ottoman court records, municipal documents, and yearbooks—I will create an interactive online platform that visualizes urban change in Ottoman Istanbul. The platform will offer layered maps, narrative commentary, and links to digitized primary sources, making the research accessible to both scholars and the public. Tools like QGIS, Voyant, and custom web applications will support analysis and presentation, with an emphasis on usability and long-term sustainability.</p>
+<p>The platform is designed to expand as new maps and texts become available, allowing for future collaboration and updates. More than a historical reference, it serves as a resource for studying the interplay between empire, space, and daily life in the Ottoman capital. Ongoing discussions with researchers in digital humanities and Ottoman history point to strong interest in a spatially grounded, digitally enabled understanding of Istanbul’s transformation—one that redefines how we visualize and interpret the Ottoman past.</p>
+
+</html>
