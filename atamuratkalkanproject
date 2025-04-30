@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>EtymoLingua</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    p {
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <h1>EtymoLingua</h1>
+  <p>
+    EtymoLingua is an innovative web platform designed to accelerate and simplify the language learning process by visualizing the etymological relationships between words. Instead of isolated vocabulary lists, users explore a dynamic “etymological net” that connects related verbs, nouns, adjectives, and more across time and language families.
+  </p>
+  <p>
+    For example, by looking up the word “construct”, users would see its Latin root “struere”, its relatives like “structure”, “instruct”, and their evolution into modern usage. The goal is to help learners develop deeper, intuitive connections between words, improving both retention and comprehension.
+  </p>
+  <p>
+    The site will support multiple languages and offer interactive maps, semantic clusters, and brief historical explanations. Users can trace how meanings shifted over centuries, observe how grammatical forms relate, and discover patterns that make vocabulary acquisition both logical and engaging.
+  </p>
+  <p>
+    EtymoLingua bridges the gap between linguistic history and practical learning, making language a connected, meaningful experience rather than rote memorization.
+  </p>
+</body>
+</html>
